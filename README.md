@@ -1,5 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aaron-Ley&show_icons=true&icon_color=ff0000&text_color=800080&bg_color=AFEEEE&hide_title=true&hide=contribs" />
 ### Hello ereryone, I'm Aaron.Ley(Lee) 👋
+
 - I’m currently working on Yonghui Superstores Co.,Ltd.
 - I’m currently learning gain and loss.
 - Reach me: aaronleenull@gmail.com
