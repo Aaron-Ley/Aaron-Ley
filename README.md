@@ -4,7 +4,7 @@
 - Reach me: aaronleenull@gmail.com
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aaron-Ley&show_icons=true&icon_color=ff0000&text_color=800080&bg_color=AFEEEE&hide_title=true&hide=contribs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Aaron-Ley&show_icons=true&icon_color=ff0000&text_color=800080&bg_color=AFEEEE&hide_title=true&hide=contribs" />
 
 
 
